@@ -1,2 +1,3 @@
 # meu-portifolio
-Meus projetos acadêmicos
+
+Este protifólio tem como objetivo a compartilhação de meus projetos acadêmicos.
